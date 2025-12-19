@@ -50,3 +50,10 @@ coverage/
 # Production
 .vercel
 .netlify
+
+#markdownlint-ignore-file
+./GETTING_STARTED.md
+/MODE_SWITCH_GUIDE.md
+./DEPLOYMENT_GUIDE.md
+./PROJECT_SUMMARY.md
+./TROUBLESHOOTING.md
